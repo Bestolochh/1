@@ -1,0 +1,25 @@
+#b {
+		font-family: Monotype Corsiva;
+		font-weight: bold;
+}
+.red {
+	color: red;
+	font-family: Arial;
+	font-weight: bold;
+}
+.blue {
+	color: blue;
+	font-family: Times New Roman;
+	font-weight: bold;
+}
+.purple {
+	color: purple;
+	font-family: Monotype Corsiva;
+	font-weight: bold;
+}
+.green {
+	color: green;
+	font-family: Monotype Corsiva;
+	text-decoration: underline;
+	font-weight: bold;
+}
